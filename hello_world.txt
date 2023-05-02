@@ -1,2 +1,3 @@
 hello zyh,hello world;
-git github;:wq
+git github;:w
+test config;
