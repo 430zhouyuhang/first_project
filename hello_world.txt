@@ -1,3 +1,6 @@
 hello zyh,hello world;
+<<<<<<< HEAD
 master test;
-git github;:wq
+
+git github;:w
+test config;
